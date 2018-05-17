@@ -1,0 +1,468 @@
+[01-Sep-2017 12:54:35 Europe/Berlin] ::session.inc:439:[before upgrade] include_once(./tmp/faillog.php): failed to open stream: No such file or directory
+[01-Sep-2017 12:54:35 Europe/Berlin] ::session.inc:439:[before upgrade] include_once(): Failed opening './tmp/faillog.php' for inclusion (include_path='.;E:\xampp\php\PEAR')
+[01-Sep-2017 12:54:35 Europe/Berlin] ::current_user.inc:686:[before upgrade] Invalid argument supplied for foreach()
+[01-Sep-2017 12:54:35 Europe/Berlin] ::current_user.inc:686:[before upgrade] Invalid argument supplied for foreach()
+[01-Sep-2017 12:54:36 Europe/Berlin] 0::session.inc:489:[before upgrade] include(./company/0/installed_extensions.php): failed to open stream: No such file or directory
+[01-Sep-2017 12:54:36 Europe/Berlin] 0::session.inc:489:[before upgrade] include(): Failed opening './company/0/installed_extensions.php' for inclusion (include_path='.;E:\xampp\php\PEAR')
+[01-Sep-2017 12:54:36 Europe/Berlin] 0::hooks.inc:239:[before upgrade] Invalid argument supplied for foreach()
+[01-Sep-2017 12:54:36 Europe/Berlin] 0::current_user.inc:730:[before upgrade] opendir(./company/0/js_cache/0,./company/0/js_cache/0): The system cannot find the file specified. (code: 2)
+[01-Sep-2017 12:54:36 Europe/Berlin] 0::current_user.inc:730:[before upgrade] opendir(./company/0/js_cache/0): failed to open dir: No such file or directory
+[01-Sep-2017 12:56:27 Europe/Berlin] 0::session.inc:439:[before upgrade] include_once(./tmp/faillog.php): failed to open stream: No such file or directory
+[01-Sep-2017 12:56:27 Europe/Berlin] 0::session.inc:439:[before upgrade] include_once(): Failed opening './tmp/faillog.php' for inclusion (include_path='.;E:\xampp\php\PEAR')
+[01-Sep-2017 12:56:35 Europe/Berlin] 0::session.inc:439:[before upgrade] include_once(./tmp/faillog.php): failed to open stream: No such file or directory
+[01-Sep-2017 12:56:35 Europe/Berlin] 0::session.inc:439:[before upgrade] include_once(): Failed opening './tmp/faillog.php' for inclusion (include_path='.;E:\xampp\php\PEAR')
+[01-Sep-2017 12:56:40 Europe/Berlin] 0:admin:current_user.inc:730: opendir(./company/0/js_cache/1,./company/0/js_cache/1): The system cannot find the file specified. (code: 2)
+[01-Sep-2017 12:56:40 Europe/Berlin] 0:admin:current_user.inc:730: opendir(./company/0/js_cache/1): failed to open dir: No such file or directory
+[01-Sep-2017 13:01:37 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 13:02:37 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 13:02:41 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 13:05:09 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 13:05:56 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 13:06:10 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 13:09:19 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 13:09:50 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 13:09:51 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 13:15:27 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 13:15:34 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 13:15:43 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 13:16:10 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 13:16:11 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 13:16:12 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 13:16:35 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 13:45:52 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 13:46:52 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 14:04:21 Europe/Berlin] 0:admin:po_db.inc:30: Creating default object from empty value
+[01-Sep-2017 14:09:47 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 14:11:12 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 14:11:19 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 14:11:21 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 14:11:24 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 14:11:24 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 14:13:14 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 14:15:12 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 14:16:24 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 17:44:17 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 17:44:51 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 17:45:11 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 17:49:46 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 17:49:50 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 17:50:15 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 17:50:20 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 17:50:28 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 17:50:32 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 17:50:39 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 17:50:46 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 17:57:03 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[01-Sep-2017 17:57:03 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 06:54:52 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 06:54:54 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 06:54:55 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 06:56:20 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 06:56:44 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 06:56:48 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 06:56:49 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 06:56:50 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 06:56:51 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 06:56:51 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 07:00:20 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 07:00:29 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 07:01:36 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 07:03:20 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 07:04:09 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 07:12:33 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 07:12:33 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 07:13:08 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 07:15:15 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 07:37:40 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 07:38:58 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 07:39:06 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 07:40:01 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 07:45:44 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 07:47:33 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 07:49:19 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 07:50:59 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 07:50:59 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 07:52:31 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 07:59:03 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 07:59:07 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:01:17 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:03:03 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:03:04 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:03:07 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:03:19 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:05:13 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:07:24 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:09:16 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:18:06 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:20:03 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:21:35 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:24:13 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:27:16 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:28:45 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:33:18 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:34:24 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:35:22 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:36:50 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:40:41 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:40:50 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:41:06 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:41:11 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:42:14 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:42:40 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:44:37 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:47:48 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:48:33 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:48:44 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:51:51 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:51:51 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:52:27 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:52:27 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 08:53:58 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 13:35:38 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 13:35:42 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 13:35:54 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 13:35:56 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 13:36:00 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 13:36:05 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 13:48:09 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 13:48:12 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 13:49:28 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 13:52:18 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 13:54:06 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 13:54:08 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 13:58:57 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 13:59:42 Europe/Berlin] 0:admin:customer_payments.php:214: Creating default object from empty value
+[03-Sep-2017 13:59:42 Europe/Berlin] 0:admin:allocation_cart.inc:374: Creating default object from empty value
+[03-Sep-2017 14:01:07 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 14:01:45 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 14:02:38 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 14:03:07 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 14:03:42 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 14:03:47 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 14:04:25 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 14:09:29 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 14:09:31 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 14:14:09 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 14:14:34 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 14:19:35 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[03-Sep-2017 14:20:10 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[04-Sep-2017 14:01:47 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[04-Sep-2017 14:03:23 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[04-Sep-2017 14:04:04 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[04-Sep-2017 14:04:04 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[04-Sep-2017 14:04:04 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[04-Sep-2017 14:04:05 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[04-Sep-2017 14:04:06 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[04-Sep-2017 14:04:06 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[04-Sep-2017 14:10:09 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[04-Sep-2017 14:11:28 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+[04-Sep-2017 14:15:45 Europe/Berlin] 0:admin:packages.inc:103: rmdir(../modules/dashboard): Directory not empty
+[04-Sep-2017 14:15:45 Europe/Berlin] 0:admin:packages.inc:429: rmdir(../modules/_cache/dashboard-2.4.0-1): Directory not empty
+[04-Sep-2017 14:16:29 Europe/Berlin] 0:admin:renderer.php:111: Invalid argument supplied for foreach()
+[04-Sep-2017 14:23:53 Europe/Berlin] 0:admin1:current_user.inc:730: opendir(./company/0/js_cache/3,./company/0/js_cache/3): The system cannot find the file specified. (code: 2)
+[04-Sep-2017 14:23:53 Europe/Berlin] 0:admin1:current_user.inc:730: opendir(./company/0/js_cache/3): failed to open dir: No such file or directory
+[04-Sep-2017 14:33:54 Europe/Berlin] 0:admin1:renderer.php:111: Invalid argument supplied for foreach()
+[04-Sep-2017 14:33:55 Europe/Berlin] 0:admin1:renderer.php:111: Invalid argument supplied for foreach()
+[04-Sep-2017 14:35:08 Europe/Berlin] 0:admin1:renderer.php:111: Invalid argument supplied for foreach()
+[04-Sep-2017 14:36:43 Europe/Berlin] 0:admin1:renderer.php:111: Invalid argument supplied for foreach()
+[04-Sep-2017 14:38:03 Europe/Berlin] 0:admin1:renderer.php:111: Invalid argument supplied for foreach()
+[04-Sep-2017 14:38:28 Europe/Berlin] 0:admin1:renderer.php:111: Invalid argument supplied for foreach()
+[04-Sep-2017 14:38:37 Europe/Berlin] 0:admin:renderer.php:111: Invalid argument supplied for foreach()
+[04-Sep-2017 14:39:00 Europe/Berlin] 0:admin1:renderer.php:111: Invalid argument supplied for foreach()
+[05-Sep-2017 14:48:28 Europe/Berlin] 0::connect_db_mysqli.inc:33:[before upgrade] mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+
+[05-Sep-2017 14:48:28 Europe/Berlin] 0::connect_db_mysqli.inc:35:[before upgrade] mysqli_select_db() expects parameter 1 to be mysqli, boolean given
+[05-Sep-2017 14:48:28 Europe/Berlin] 0::connect_db_mysqli.inc:68:[before upgrade] mysqli_query() expects parameter 1 to be mysqli, boolean given
+[05-Sep-2017 14:48:28 Europe/Berlin] 0::connect_db_mysqli.inc:69:[before upgrade] mysqli_errno() expects parameter 1 to be mysqli, boolean given
+[05-Sep-2017 14:48:28 Europe/Berlin] 0::connect_db_mysqli.inc:68:[before upgrade] mysqli_query() expects parameter 1 to be mysqli, boolean given
+[05-Sep-2017 14:48:28 Europe/Berlin] 0::connect_db_mysqli.inc:69:[before upgrade] mysqli_errno() expects parameter 1 to be mysqli, boolean given
+[05-Sep-2017 14:48:28 Europe/Berlin] 0::connect_db_mysqli.inc:286:[before upgrade] mysqli_set_charset() expects parameter 1 to be mysqli, boolean given
+[05-Sep-2017 14:48:28 Europe/Berlin] 0::connect_db_mysqli.inc:150:[before upgrade] mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given
+[05-Sep-2017 14:48:28 Europe/Berlin] 0::connect_db_mysqli.inc:150:[before upgrade] mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given
+[05-Sep-2017 14:48:28 Europe/Berlin] 0::connect_db_mysqli.inc:68:[before upgrade] mysqli_query() expects parameter 1 to be mysqli, boolean given
+[05-Sep-2017 14:48:28 Europe/Berlin] 0::connect_db_mysqli.inc:69:[before upgrade] mysqli_errno() expects parameter 1 to be mysqli, boolean given
+[05-Sep-2017 14:48:28 Europe/Berlin] 0::connect_db_mysqli.inc:165:[before upgrade] mysqli_errno() expects parameter 1 to be mysqli, boolean given
+[05-Sep-2017 14:48:28 Europe/Berlin] 0::connect_db_mysqli.inc:127:[before upgrade] mysqli_num_rows() expects parameter 1 to be mysqli_result, null given
+[05-Sep-2017 14:48:35 Europe/Berlin] 0::connect_db_mysqli.inc:33:[before upgrade] mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+
+[05-Sep-2017 14:48:35 Europe/Berlin] 0::connect_db_mysqli.inc:35:[before upgrade] mysqli_select_db() expects parameter 1 to be mysqli, boolean given
+[05-Sep-2017 14:48:35 Europe/Berlin] 0::connect_db_mysqli.inc:68:[before upgrade] mysqli_query() expects parameter 1 to be mysqli, boolean given
+[05-Sep-2017 14:48:35 Europe/Berlin] 0::connect_db_mysqli.inc:69:[before upgrade] mysqli_errno() expects parameter 1 to be mysqli, boolean given
+[05-Sep-2017 14:48:35 Europe/Berlin] 0::connect_db_mysqli.inc:68:[before upgrade] mysqli_query() expects parameter 1 to be mysqli, boolean given
+[05-Sep-2017 14:48:35 Europe/Berlin] 0::connect_db_mysqli.inc:69:[before upgrade] mysqli_errno() expects parameter 1 to be mysqli, boolean given
+[05-Sep-2017 14:48:35 Europe/Berlin] 0::connect_db_mysqli.inc:286:[before upgrade] mysqli_set_charset() expects parameter 1 to be mysqli, boolean given
+[05-Sep-2017 14:48:35 Europe/Berlin] 0::connect_db_mysqli.inc:150:[before upgrade] mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given
+[05-Sep-2017 14:48:35 Europe/Berlin] 0::connect_db_mysqli.inc:150:[before upgrade] mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given
+[05-Sep-2017 14:48:35 Europe/Berlin] 0::connect_db_mysqli.inc:68:[before upgrade] mysqli_query() expects parameter 1 to be mysqli, boolean given
+[05-Sep-2017 14:48:35 Europe/Berlin] 0::connect_db_mysqli.inc:69:[before upgrade] mysqli_errno() expects parameter 1 to be mysqli, boolean given
+[05-Sep-2017 14:48:35 Europe/Berlin] 0::connect_db_mysqli.inc:165:[before upgrade] mysqli_errno() expects parameter 1 to be mysqli, boolean given
+[05-Sep-2017 14:48:35 Europe/Berlin] 0::connect_db_mysqli.inc:127:[before upgrade] mysqli_num_rows() expects parameter 1 to be mysqli_result, null given
+[05-Sep-2017 15:20:11 Europe/Berlin] 0:admin:simple_crud_class.inc:114: key() expects parameter 1 to be array, string given
+[05-Sep-2017 15:57:43 Europe/Berlin] Rounding error 0.01 encountered for trans_type:10,trans_no:11
+[07-Sep-2017 06:56:47 Europe/Berlin] <b>DATABASE ERROR :</b> Failed in retreiving customer list.<br>error code : 1054<br>error message : Unknown column 'phone' in 'field list'<br>sql that failed was : SELECT debtor_no, name, debtor_ref, address,phone, tax_id FROM 0_debtors_master 
+	  WHERE (  name LIKE '%%' OR 
+    		 debtor_ref LIKE '%%' OR 
+	        address LIKE '%%' OR 
+    	     tax_id LIKE '%%')
+	  ORDER BY name LIMIT 0,10<br><br><br>
+[07-Sep-2017 06:56:48 Europe/Berlin] <b>DATABASE ERROR :</b> Failed in retreiving customer list.<br>error code : 1054<br>error message : Unknown column 'phone' in 'field list'<br>sql that failed was : SELECT debtor_no, name, debtor_ref, address,phone, tax_id FROM 0_debtors_master 
+	  WHERE (  name LIKE '%%' OR 
+    		 debtor_ref LIKE '%%' OR 
+	        address LIKE '%%' OR 
+    	     tax_id LIKE '%%')
+	  ORDER BY name LIMIT 0,10<br><br><br>
+[07-Sep-2017 06:57:07 Europe/Berlin] <b>DATABASE ERROR :</b> Failed in retreiving customer list.<br>error code : 1054<br>error message : Unknown column 'phone' in 'field list'<br>sql that failed was : SELECT debtor_no, name, debtor_ref, address, tax_id, phone FROM 0_debtors_master 
+	  WHERE (  name LIKE '%%' OR 
+    		 debtor_ref LIKE '%%' OR 
+	        address LIKE '%%' OR 
+    	     tax_id LIKE '%%')
+	  ORDER BY name LIMIT 0,10<br><br><br>
+[07-Sep-2017 06:57:08 Europe/Berlin] <b>DATABASE ERROR :</b> Failed in retreiving customer list.<br>error code : 1054<br>error message : Unknown column 'phone' in 'field list'<br>sql that failed was : SELECT debtor_no, name, debtor_ref, address, tax_id, phone FROM 0_debtors_master 
+	  WHERE (  name LIKE '%%' OR 
+    		 debtor_ref LIKE '%%' OR 
+	        address LIKE '%%' OR 
+    	     tax_id LIKE '%%')
+	  ORDER BY name LIMIT 0,10<br><br><br>
+[07-Sep-2017 07:23:36 Europe/Berlin] <b>DATABASE ERROR :</b> Failed in retreiving customer list.<br>error code : 1064<br>error message : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') FROM 0_debtors_master 
+	  WHERE (  name LIKE '%%' OR 
+    		 debtor_ref LIKE '' at line 1<br>sql that failed was : SELECT debtor_no, name, debtor_ref, address, tax_id, (select) FROM 0_debtors_master 
+	  WHERE (  name LIKE '%%' OR 
+    		 debtor_ref LIKE '%%' OR 
+	        address LIKE '%%' OR 
+    	     tax_id LIKE '%%')
+	  ORDER BY name LIMIT 0,10<br><br><br>
+[07-Sep-2017 07:23:45 Europe/Berlin] <b>DATABASE ERROR :</b> Failed in retreiving customer list.<br>error code : 1064<br>error message : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') FROM 0_debtors_master 
+	  WHERE (  name LIKE '%%' OR 
+    		 debtor_ref LIKE '' at line 1<br>sql that failed was : SELECT debtor_no, name, debtor_ref, address, tax_id, (select) FROM 0_debtors_master 
+	  WHERE (  name LIKE '%%' OR 
+    		 debtor_ref LIKE '%%' OR 
+	        address LIKE '%%' OR 
+    	     tax_id LIKE '%%')
+	  ORDER BY name LIMIT 0,10<br><br><br>
+[07-Sep-2017 07:24:03 Europe/Berlin] <b>DATABASE ERROR :</b> Failed in retreiving customer list.<br>error code : 1064<br>error message : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') FROM 0_debtors_master 
+	  WHERE (  name LIKE '%%' OR 
+    		 debtor_ref LIKE '' at line 1<br>sql that failed was : SELECT debtor_no, name, debtor_ref, address, tax_id, (select) FROM 0_debtors_master 
+	  WHERE (  name LIKE '%%' OR 
+    		 debtor_ref LIKE '%%' OR 
+	        address LIKE '%%' OR 
+    	     tax_id LIKE '%%')
+	  ORDER BY name LIMIT 0,10<br><br><br>
+[07-Sep-2017 07:24:04 Europe/Berlin] <b>DATABASE ERROR :</b> Failed in retreiving customer list.<br>error code : 1064<br>error message : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') FROM 0_debtors_master 
+	  WHERE (  name LIKE '%%' OR 
+    		 debtor_ref LIKE '' at line 1<br>sql that failed was : SELECT debtor_no, name, debtor_ref, address, tax_id, (select) FROM 0_debtors_master 
+	  WHERE (  name LIKE '%%' OR 
+    		 debtor_ref LIKE '%%' OR 
+	        address LIKE '%%' OR 
+    	     tax_id LIKE '%%')
+	  ORDER BY name LIMIT 0,10<br><br><br>
+[07-Sep-2017 07:24:04 Europe/Berlin] <b>DATABASE ERROR :</b> Failed in retreiving customer list.<br>error code : 1064<br>error message : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') FROM 0_debtors_master 
+	  WHERE (  name LIKE '%%' OR 
+    		 debtor_ref LIKE '' at line 1<br>sql that failed was : SELECT debtor_no, name, debtor_ref, address, tax_id, (select) FROM 0_debtors_master 
+	  WHERE (  name LIKE '%%' OR 
+    		 debtor_ref LIKE '%%' OR 
+	        address LIKE '%%' OR 
+    	     tax_id LIKE '%%')
+	  ORDER BY name LIMIT 0,10<br><br><br>
+[07-Sep-2017 07:24:05 Europe/Berlin] <b>DATABASE ERROR :</b> Failed in retreiving customer list.<br>error code : 1064<br>error message : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') FROM 0_debtors_master 
+	  WHERE (  name LIKE '%%' OR 
+    		 debtor_ref LIKE '' at line 1<br>sql that failed was : SELECT debtor_no, name, debtor_ref, address, tax_id, (select) FROM 0_debtors_master 
+	  WHERE (  name LIKE '%%' OR 
+    		 debtor_ref LIKE '%%' OR 
+	        address LIKE '%%' OR 
+    	     tax_id LIKE '%%')
+	  ORDER BY name LIMIT 0,10<br><br><br>
+[07-Sep-2017 07:24:05 Europe/Berlin] <b>DATABASE ERROR :</b> Failed in retreiving customer list.<br>error code : 1064<br>error message : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') FROM 0_debtors_master 
+	  WHERE (  name LIKE '%%' OR 
+    		 debtor_ref LIKE '' at line 1<br>sql that failed was : SELECT debtor_no, name, debtor_ref, address, tax_id, (select) FROM 0_debtors_master 
+	  WHERE (  name LIKE '%%' OR 
+    		 debtor_ref LIKE '%%' OR 
+	        address LIKE '%%' OR 
+    	     tax_id LIKE '%%')
+	  ORDER BY name LIMIT 0,10<br><br><br>
+[07-Sep-2017 07:24:10 Europe/Berlin] <b>DATABASE ERROR :</b> Failed in retreiving customer list.<br>error code : 1064<br>error message : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') FROM 0_debtors_master 
+	  WHERE (  name LIKE '%%' OR 
+    		 debtor_ref LIKE '' at line 1<br>sql that failed was : SELECT debtor_no, name, debtor_ref, address, tax_id, (select) FROM 0_debtors_master 
+	  WHERE (  name LIKE '%%' OR 
+    		 debtor_ref LIKE '%%' OR 
+	        address LIKE '%%' OR 
+    	     tax_id LIKE '%%')
+	  ORDER BY name LIMIT 0,10<br><br><br>
+[07-Sep-2017 07:57:10 Europe/Berlin] <b>DATABASE ERROR :</b> Failed in retreiving customer list.<br>error code : 1054<br>error message : Unknown column 'cp.entity_id' in 'on clause'<br>sql that failed was : SELECT dm.debtor_no, dm.name, dm.debtor_ref, dm.address, dm.tax_id FROM 0_debtors_master dm
+                LEFT JOIN 0_crm_contacts cc ON cc.entity_id = dm.debtor_no
+                LEFT JOIN 0_crm_persons cp ON cp.entity_id = cc.person_id
+	  WHERE 
+                cc.type = 'cust_branch' AND cc.action = 'general' AND
+                (  dm.name LIKE '%%' OR 
+    		 dm.debtor_ref LIKE '%%' OR 
+	        dm.address LIKE '%%' OR 
+    	     dm.tax_id LIKE '%%')
+	  ORDER BY dm.name LIMIT 0,10<br><br><br>
+[07-Sep-2017 07:57:11 Europe/Berlin] <b>DATABASE ERROR :</b> Failed in retreiving customer list.<br>error code : 1054<br>error message : Unknown column 'cp.entity_id' in 'on clause'<br>sql that failed was : SELECT dm.debtor_no, dm.name, dm.debtor_ref, dm.address, dm.tax_id FROM 0_debtors_master dm
+                LEFT JOIN 0_crm_contacts cc ON cc.entity_id = dm.debtor_no
+                LEFT JOIN 0_crm_persons cp ON cp.entity_id = cc.person_id
+	  WHERE 
+                cc.type = 'cust_branch' AND cc.action = 'general' AND
+                (  dm.name LIKE '%%' OR 
+    		 dm.debtor_ref LIKE '%%' OR 
+	        dm.address LIKE '%%' OR 
+    	     dm.tax_id LIKE '%%')
+	  ORDER BY dm.name LIMIT 0,10<br><br><br>
+[07-Sep-2017 07:57:11 Europe/Berlin] <b>DATABASE ERROR :</b> Failed in retreiving customer list.<br>error code : 1054<br>error message : Unknown column 'cp.entity_id' in 'on clause'<br>sql that failed was : SELECT dm.debtor_no, dm.name, dm.debtor_ref, dm.address, dm.tax_id FROM 0_debtors_master dm
+                LEFT JOIN 0_crm_contacts cc ON cc.entity_id = dm.debtor_no
+                LEFT JOIN 0_crm_persons cp ON cp.entity_id = cc.person_id
+	  WHERE 
+                cc.type = 'cust_branch' AND cc.action = 'general' AND
+                (  dm.name LIKE '%%' OR 
+    		 dm.debtor_ref LIKE '%%' OR 
+	        dm.address LIKE '%%' OR 
+    	     dm.tax_id LIKE '%%')
+	  ORDER BY dm.name LIMIT 0,10<br><br><br>
+[07-Sep-2017 07:57:11 Europe/Berlin] <b>DATABASE ERROR :</b> Failed in retreiving customer list.<br>error code : 1054<br>error message : Unknown column 'cp.entity_id' in 'on clause'<br>sql that failed was : SELECT dm.debtor_no, dm.name, dm.debtor_ref, dm.address, dm.tax_id FROM 0_debtors_master dm
+                LEFT JOIN 0_crm_contacts cc ON cc.entity_id = dm.debtor_no
+                LEFT JOIN 0_crm_persons cp ON cp.entity_id = cc.person_id
+	  WHERE 
+                cc.type = 'cust_branch' AND cc.action = 'general' AND
+                (  dm.name LIKE '%%' OR 
+    		 dm.debtor_ref LIKE '%%' OR 
+	        dm.address LIKE '%%' OR 
+    	     dm.tax_id LIKE '%%')
+	  ORDER BY dm.name LIMIT 0,10<br><br><br>
+[07-Sep-2017 07:59:19 Europe/Berlin] <b>DATABASE ERROR :</b> Failed in retreiving customer list.<br>error code : 1054<br>error message : Unknown column 'cp.phones' in 'where clause'<br>sql that failed was : SELECT dm.debtor_no, dm.name, dm.debtor_ref, dm.address, dm.tax_id, concat(cp.phone,',',cp.phone2) as phones FROM 0_debtors_master dm
+                LEFT JOIN 0_crm_contacts cc ON cc.entity_id = dm.debtor_no
+                LEFT JOIN 0_crm_persons cp ON cp.id = cc.person_id
+	  WHERE 
+                cc.type = 'cust_branch' AND cc.action = 'general' AND
+                (  dm.name LIKE '%%' OR 
+    		 dm.debtor_ref LIKE '%%' OR 
+	        dm.address LIKE '%%' OR 
+	        cp.phones LIKE '%%' OR 
+    	     dm.tax_id LIKE '%%')
+	  ORDER BY dm.name LIMIT 0,10<br><br><br>
+[07-Sep-2017 07:59:19 Europe/Berlin] <b>DATABASE ERROR :</b> Failed in retreiving customer list.<br>error code : 1054<br>error message : Unknown column 'cp.phones' in 'where clause'<br>sql that failed was : SELECT dm.debtor_no, dm.name, dm.debtor_ref, dm.address, dm.tax_id, concat(cp.phone,',',cp.phone2) as phones FROM 0_debtors_master dm
+                LEFT JOIN 0_crm_contacts cc ON cc.entity_id = dm.debtor_no
+                LEFT JOIN 0_crm_persons cp ON cp.id = cc.person_id
+	  WHERE 
+                cc.type = 'cust_branch' AND cc.action = 'general' AND
+                (  dm.name LIKE '%%' OR 
+    		 dm.debtor_ref LIKE '%%' OR 
+	        dm.address LIKE '%%' OR 
+	        cp.phones LIKE '%%' OR 
+    	     dm.tax_id LIKE '%%')
+	  ORDER BY dm.name LIMIT 0,10<br><br><br>
+[07-Sep-2017 08:01:20 Europe/Berlin] 0:admin:simple_crud_class.inc:114: key() expects parameter 1 to be array, string given
+[07-Sep-2017 08:01:34 Europe/Berlin] 0:admin:simple_crud_class.inc:114: key() expects parameter 1 to be array, string given
+[07-Sep-2017 08:01:44 Europe/Berlin] 0:admin:simple_crud_class.inc:114: key() expects parameter 1 to be array, string given
+[07-Sep-2017 08:01:57 Europe/Berlin] 0:admin:simple_crud_class.inc:114: key() expects parameter 1 to be array, string given
+[07-Sep-2017 08:19:31 Europe/Berlin] 0:admin:allocation_cart.inc:374: Creating default object from empty value
+[07-Sep-2017 08:53:47 Europe/Berlin] 0:admin:simple_crud_class.inc:114: key() expects parameter 1 to be array, string given
+[07-Sep-2017 08:53:54 Europe/Berlin] 0:admin:simple_crud_class.inc:114: key() expects parameter 1 to be array, string given
+[07-Sep-2017 09:02:45 Europe/Berlin] 0:admin:simple_crud_class.inc:114: key() expects parameter 1 to be array, string given
+[07-Sep-2017 09:02:45 Europe/Berlin] 0:admin:simple_crud_class.inc:114: key() expects parameter 1 to be array, string given
+[07-Sep-2017 09:31:18 Europe/Berlin] 0:fahry:current_user.inc:730: opendir(./company/0/js_cache/2,./company/0/js_cache/2): The system cannot find the file specified. (code: 2)
+[07-Sep-2017 09:31:18 Europe/Berlin] 0:fahry:current_user.inc:730: opendir(./company/0/js_cache/2): failed to open dir: No such file or directory
+[07-Sep-2017 10:04:01 Europe/Berlin] 0:admin:allocation_cart.inc:374: Creating default object from empty value
+[07-Sep-2017 18:51:36 Europe/Berlin] 0:admin:packages.inc:429: rmdir(../modules/_cache/import_items-2.4.0-2): Directory not empty
+[07-Sep-2017 18:51:37 Europe/Berlin] 0:admin:packages.inc:429: rmdir(../modules/_cache/import_items-2.4.0-2): Directory not empty
+[18-Sep-2017 12:50:33 Europe/Berlin] 0::session.inc:127: session_destroy(): Session object destruction failed
+[10-Oct-2017 18:29:00 Europe/Berlin] 0:admin:remote_url.inc:47: fsockopen(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[10-Oct-2017 18:29:00 Europe/Berlin] 0:admin:remote_url.inc:47: fsockopen(): unable to connect to repo.frontaccounting.eu:80 (php_network_getaddresses: getaddrinfo failed: No such host is known. )
+[10-Oct-2017 18:29:00 Europe/Berlin] 0:admin:remote_url.inc:47: fsockopen(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[10-Oct-2017 18:29:00 Europe/Berlin] 0:admin:remote_url.inc:47: fsockopen(): unable to connect to repo.frontaccounting.eu:80 (php_network_getaddresses: getaddrinfo failed: No such host is known. )
+[10-Oct-2017 18:29:00 Europe/Berlin] 0:admin:packages.inc:533: array_merge(): Argument #1 is not an array
+[10-Oct-2017 18:29:00 Europe/Berlin] 0:admin:remote_url.inc:47: fsockopen(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[10-Oct-2017 18:29:00 Europe/Berlin] 0:admin:remote_url.inc:47: fsockopen(): unable to connect to repo.frontaccounting.eu:80 (php_network_getaddresses: getaddrinfo failed: No such host is known. )
+[10-Oct-2017 18:29:00 Europe/Berlin] 0:admin:remote_url.inc:47: fsockopen(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[10-Oct-2017 18:29:00 Europe/Berlin] 0:admin:remote_url.inc:47: fsockopen(): unable to connect to repo.frontaccounting.eu:80 (php_network_getaddresses: getaddrinfo failed: No such host is known. )
+[10-Oct-2017 18:29:00 Europe/Berlin] 0:admin:packages.inc:533: array_merge(): Argument #1 is not an array
+[10-Oct-2017 18:39:44 Europe/Berlin] CSRF attack detected from: localhost (http://localhost/zv_accounts/admin/users.php?)
+[10-Oct-2017 18:59:16 Europe/Berlin] 0:admin:renderer.php:111: Invalid argument supplied for foreach()
+[10-Oct-2017 19:06:41 Europe/Berlin] 0::logout.php:50:[before upgrade] session_destroy(): Session object destruction failed
+[10-Oct-2017 19:10:21 Europe/Berlin] 0::logout.php:50:[before upgrade] session_destroy(): Session object destruction failed
+[10-Oct-2017 19:11:18 Europe/Berlin] 0::logout.php:50:[before upgrade] session_destroy(): Session object destruction failed
+[11-Oct-2017 06:42:10 Europe/Berlin] 0::logout.php:50:[before upgrade] session_destroy(): Session object destruction failed
+[11-Oct-2017 07:58:07 Europe/Berlin] 0:admin:ui_controls.inc:19: Missing argument 1 for get_post(), called in E:\xampp\htdocs\zv_accounts\inventory\manage\items.php on line 53 and defined
+[11-Oct-2017 08:33:19 Europe/Berlin] 0::logout.php:50:[before upgrade] session_destroy(): Session object destruction failed
+[17-Oct-2017 19:23:32 Europe/Berlin] 0::session.inc:127: session_destroy(): Session object destruction failed
+[17-Oct-2017 20:08:16 Europe/Berlin] 0:admin:po_db.inc:30: Creating default object from empty value
+[21-Oct-2017 17:03:27 Europe/Berlin] 0:fahry:renderer.php:111: Invalid argument supplied for foreach()
+[21-Oct-2017 18:47:56 Europe/Berlin] 0::connect_db_mysqli.inc:33:[before upgrade] mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+
+[21-Oct-2017 18:47:56 Europe/Berlin] 0::connect_db_mysqli.inc:35:[before upgrade] mysqli_select_db() expects parameter 1 to be mysqli, boolean given
+[21-Oct-2017 18:47:56 Europe/Berlin] 0::connect_db_mysqli.inc:68:[before upgrade] mysqli_query() expects parameter 1 to be mysqli, boolean given
+[21-Oct-2017 18:47:56 Europe/Berlin] 0::connect_db_mysqli.inc:69:[before upgrade] mysqli_errno() expects parameter 1 to be mysqli, boolean given
+[21-Oct-2017 18:47:56 Europe/Berlin] 0::connect_db_mysqli.inc:68:[before upgrade] mysqli_query() expects parameter 1 to be mysqli, boolean given
+[21-Oct-2017 18:47:56 Europe/Berlin] 0::connect_db_mysqli.inc:69:[before upgrade] mysqli_errno() expects parameter 1 to be mysqli, boolean given
+[21-Oct-2017 18:47:56 Europe/Berlin] 0::connect_db_mysqli.inc:286:[before upgrade] mysqli_set_charset() expects parameter 1 to be mysqli, boolean given
+[21-Oct-2017 18:47:56 Europe/Berlin] 0::connect_db_mysqli.inc:150:[before upgrade] mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given
+[21-Oct-2017 18:47:56 Europe/Berlin] 0::connect_db_mysqli.inc:150:[before upgrade] mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given
+[21-Oct-2017 18:47:56 Europe/Berlin] 0::connect_db_mysqli.inc:68:[before upgrade] mysqli_query() expects parameter 1 to be mysqli, boolean given
+[21-Oct-2017 18:47:56 Europe/Berlin] 0::connect_db_mysqli.inc:69:[before upgrade] mysqli_errno() expects parameter 1 to be mysqli, boolean given
+[21-Oct-2017 18:47:56 Europe/Berlin] 0::connect_db_mysqli.inc:165:[before upgrade] mysqli_errno() expects parameter 1 to be mysqli, boolean given
+[21-Oct-2017 18:47:56 Europe/Berlin] 0::connect_db_mysqli.inc:127:[before upgrade] mysqli_num_rows() expects parameter 1 to be mysqli_result, null given
+[25-Oct-2017 09:56:15 Europe/Berlin] 0:admin:current_user.inc:740:[before upgrade] unlink(../company/0/js_cache/1/behaviour.js): No such file or directory
+[25-Oct-2017 09:56:15 Europe/Berlin] 0:admin:current_user.inc:740:[before upgrade] unlink(../company/0/js_cache/1/date_picker.js): No such file or directory
+[25-Oct-2017 09:56:15 Europe/Berlin] 0:admin:current_user.inc:740:[before upgrade] unlink(../company/0/js_cache/1/inserts.js): No such file or directory
+[25-Oct-2017 09:56:15 Europe/Berlin] 0:admin:current_user.inc:740:[before upgrade] unlink(../company/0/js_cache/1/JsHttpRequest.js): No such file or directory
+[25-Oct-2017 09:56:15 Europe/Berlin] 0:admin:current_user.inc:740:[before upgrade] unlink(../company/0/js_cache/1/utils.js): No such file or directory
+[26-Mar-2018 07:15:48 Europe/Berlin] 0::current_user.inc:740:[before upgrade] unlink(../company/0/js_cache/0/login.js): No such file or directory
+[26-Mar-2018 07:15:48 Europe/Berlin] 0::current_user.inc:740:[before upgrade] unlink(../company/0/js_cache/0/utils.js): No such file or directory
+[16-Apr-2018 06:08:06 Europe/Berlin] 0::current_user.inc:740:[before upgrade] unlink(../company/0/js_cache/0/JsHttpRequest.js): No such file or directory
+[16-Apr-2018 06:08:06 Europe/Berlin] 0::current_user.inc:740:[before upgrade] unlink(../company/0/js_cache/0/login.js): No such file or directory
+[16-Apr-2018 06:08:06 Europe/Berlin] 0::current_user.inc:740:[before upgrade] unlink(../company/0/js_cache/0/utils.js): No such file or directory
+[24-Apr-2018 13:41:36 Europe/Berlin] 0:fahry:simple_crud_class.inc:114: key() expects parameter 1 to be array, string given
+[29-Apr-2018 04:20:31 Europe/Berlin] 0::current_user.inc:740:[before upgrade] unlink(./company/0/js_cache/0/inserts.js): Permission denied
+[07-May-2018 11:29:48 Europe/Berlin] 0::current_user.inc:740:[before upgrade] unlink(./company/0/js_cache/0/behaviour.js): No such file or directory
+[07-May-2018 11:29:48 Europe/Berlin] 0::current_user.inc:740:[before upgrade] unlink(./company/0/js_cache/0/inserts.js): No such file or directory
+[07-May-2018 11:29:48 Europe/Berlin] 0::current_user.inc:740:[before upgrade] unlink(./company/0/js_cache/0/JsHttpRequest.js): No such file or directory
+[07-May-2018 11:29:48 Europe/Berlin] 0::current_user.inc:740:[before upgrade] unlink(./company/0/js_cache/0/login.js): No such file or directory
+[07-May-2018 11:29:48 Europe/Berlin] 0::current_user.inc:740:[before upgrade] unlink(./company/0/js_cache/0/utils.js): No such file or directory
+[07-May-2018 12:37:08 Europe/Berlin] 0:admin:ui_lists.inc:424: Invalid argument supplied for foreach()
+[07-May-2018 17:38:08 Europe/Berlin] 0:admin:allocation_cart.inc:374: Creating default object from empty value
+[07-May-2018 17:44:37 Europe/Berlin] 0:admin:ui_lists.inc:424: Invalid argument supplied for foreach()
+[12-May-2018 11:26:29 Europe/Berlin] 0:admin:ui_lists.inc:424: Invalid argument supplied for foreach()
+[12-May-2018 11:26:50 Europe/Berlin] 0:admin:ui_lists.inc:424: Invalid argument supplied for foreach()
+[12-May-2018 11:27:48 Europe/Berlin] 0:admin:ui_lists.inc:424: Invalid argument supplied for foreach()
+[12-May-2018 11:28:08 Europe/Berlin] 0:admin:ui_lists.inc:424: Invalid argument supplied for foreach()
+[12-May-2018 11:28:13 Europe/Berlin] 0:admin:ui_lists.inc:424: Invalid argument supplied for foreach()
+[12-May-2018 11:28:14 Europe/Berlin] 0:admin:ui_lists.inc:424: Invalid argument supplied for foreach()
+[12-May-2018 11:28:16 Europe/Berlin] 0:admin:ui_lists.inc:424: Invalid argument supplied for foreach()
+[12-May-2018 11:28:54 Europe/Berlin] 0:admin:ui_lists.inc:424: Invalid argument supplied for foreach()
+[12-May-2018 11:28:56 Europe/Berlin] 0:admin:ui_lists.inc:424: Invalid argument supplied for foreach()
+[12-May-2018 11:28:57 Europe/Berlin] 0:admin:ui_lists.inc:424: Invalid argument supplied for foreach()
+[12-May-2018 11:28:58 Europe/Berlin] 0:admin:ui_lists.inc:424: Invalid argument supplied for foreach()
+[12-May-2018 11:28:58 Europe/Berlin] 0:admin:ui_lists.inc:424: Invalid argument supplied for foreach()
+[12-May-2018 11:29:09 Europe/Berlin] 0:admin:ui_lists.inc:424: Invalid argument supplied for foreach()
+[12-May-2018 11:56:23 Europe/Berlin] 0:admin:ui_lists.inc:424: Invalid argument supplied for foreach()
+[12-May-2018 11:56:23 Europe/Berlin] 0:admin:ui_lists.inc:424: Invalid argument supplied for foreach()
+[12-May-2018 11:59:05 Europe/Berlin] 0:admin:ui_lists.inc:424: Invalid argument supplied for foreach()
+[12-May-2018 11:59:06 Europe/Berlin] 0:admin:ui_lists.inc:424: Invalid argument supplied for foreach()
+[16-May-2018 07:52:24 Europe/Berlin] <b>DATABASE ERROR :</b> could not get stock categories<br>error code : 1146<br>error message : Table 'bigcity_group_db.0_stock_category_parent' doesn't exist<br>sql that failed was : SELECT * FROM 0_stock_category_parent WHERE !inactive ORDER BY parent_cat_name<br><br><br>
+[16-May-2018 07:52:33 Europe/Berlin] <b>DATABASE ERROR :</b> could not get stock categories<br>error code : 1146<br>error message : Table 'bigcity_group_db.0_stock_category_parent' doesn't exist<br>sql that failed was : SELECT * FROM 0_stock_category_parent WHERE !inactive ORDER BY parent_cat_name<br><br><br>
+[16-May-2018 07:52:40 Europe/Berlin] <b>DATABASE ERROR :</b> could not get stock categories<br>error code : 1146<br>error message : Table 'bigcity_group_db.0_stock_category_parent' doesn't exist<br>sql that failed was : SELECT * FROM 0_stock_category_parent WHERE !inactive ORDER BY parent_cat_name<br><br><br>
+[16-May-2018 10:20:17 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given
+[16-May-2018 10:20:39 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given
+[16-May-2018 10:20:54 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given
+[16-May-2018 10:21:03 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given
+[16-May-2018 10:21:51 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given
+[16-May-2018 10:22:13 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given
+[16-May-2018 10:22:59 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given
+[16-May-2018 10:23:04 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given
+[16-May-2018 10:23:26 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given
+[16-May-2018 10:23:42 Europe/Berlin] 0:admin:connect_db_mysqli.inc:110: mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given
+[16-May-2018 15:39:46 Europe/Berlin] <b>DATABASE ERROR :</b> FATAL : duplicate purchase order found<br>sql that failed was : <br><br><br>
+[16-May-2018 19:04:12 Europe/Berlin] 0:admin:JsHttpRequest.php:273:[before upgrade] parse_str(): Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini.
+[16-May-2018 19:04:19 Europe/Berlin] 0:admin:JsHttpRequest.php:273:[before upgrade] parse_str(): Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini.
+[17-May-2018 06:33:44 Europe/Berlin] 0:bigcity:JsHttpRequest.php:273:[before upgrade] parse_str(): Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini.
+[17-May-2018 06:33:50 Europe/Berlin] 0:bigcity:JsHttpRequest.php:273:[before upgrade] parse_str(): Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini.
+[17-May-2018 06:33:55 Europe/Berlin] 0:bigcity:JsHttpRequest.php:273:[before upgrade] parse_str(): Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini.
+[17-May-2018 06:52:28 Europe/Berlin] 0:bigcity:JsHttpRequest.php:273:[before upgrade] parse_str(): Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini.
+[17-May-2018 07:00:39 Europe/Berlin] 0:bigcity:JsHttpRequest.php:273:[before upgrade] parse_str(): Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini.
+[17-May-2018 07:15:24 Europe/Berlin] 0:bigcity:JsHttpRequest.php:273:[before upgrade] parse_str(): Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini.
+[17-May-2018 07:15:29 Europe/Berlin] 0:bigcity:JsHttpRequest.php:273:[before upgrade] parse_str(): Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini.
+[17-May-2018 07:15:33 Europe/Berlin] 0:bigcity:JsHttpRequest.php:273:[before upgrade] parse_str(): Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini.
+[17-May-2018 07:15:40 Europe/Berlin] 0:bigcity:JsHttpRequest.php:273:[before upgrade] parse_str(): Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini.
+[17-May-2018 07:15:41 Europe/Berlin] 0:bigcity:JsHttpRequest.php:273:[before upgrade] parse_str(): Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini.
+[17-May-2018 07:15:46 Europe/Berlin] 0:bigcity:JsHttpRequest.php:273:[before upgrade] parse_str(): Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini.
+[17-May-2018 07:15:47 Europe/Berlin] 0:bigcity:JsHttpRequest.php:273:[before upgrade] parse_str(): Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini.
+[17-May-2018 07:15:52 Europe/Berlin] 0:bigcity:JsHttpRequest.php:273:[before upgrade] parse_str(): Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini.
+[17-May-2018 07:15:57 Europe/Berlin] 0:bigcity:JsHttpRequest.php:273:[before upgrade] parse_str(): Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini.
